@@ -30,7 +30,8 @@ The extension includes:
   		"name": "Tom",
   		"mobile": "17887698460"
   	},
-  	"urls": ["https://www.toutiao.com/", "http://www.wechat.com/"]
+  	"urls": ["https://www.toutiao.com/", "http://www.wechat.com/"],
+  	"types": ["main_frame"]
 }
 
 
